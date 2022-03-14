@@ -2,22 +2,19 @@
   {
     "id": 0,
     "description": "My First Test NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNsYBwHBcnkUX4nabXPEBsoNY25vo5NywGfUFLX1iwXq7",
     "name": "My Test NFT 0"
   },
   {
     "id": 1,
     "description": "My Second Test NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNsYBwHBcnkUX4nabXPEBsoNY25vo5NywGfUFLX1iwXq7",
     "name": "My Test NFT 1"
   },
   {
     "id": 2,
     "description": "My Third Test NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "image": "https://gateway.pinata.cloud/ipfs/QmNsYBwHBcnkUX4nabXPEBsoNY25vo5NywGfUFLX1iwXq7",
     "name": "My Test NFT 2"
   }
 ]
